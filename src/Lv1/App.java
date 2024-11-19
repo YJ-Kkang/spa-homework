@@ -12,7 +12,7 @@ public class App {
         while (!ans.equals("exit")) {
 
             //첫 번째 양의 정수 입력
-            System.out.print("첫 번째 양의 정수 n을 입력하세요(n>=0): ");
+            System.out.print("첫 번째 양의 정수 n을 입력하세요: ");
             int num1 = sc.nextInt();
             if (num1 < 0) {
                 System.out.println("음의 정수는 입력할 수 없습니다. 계산기를 종료합니다.");
@@ -26,7 +26,7 @@ public class App {
             String oper = sc.next();
 
             //두 번째 양의 정수 입력
-            System.out.print("두 번째 양의 정수 n을 입력하세요(n>0): ");
+            System.out.print("두 번째 양의 정수 n을 입력하세요: ");
             int num2 = sc.nextInt();
             if (num2 < 0) {
                 System.out.println("음의 정수는 입력할 수 없습니다. 계산기를 종료합니다.");
