@@ -64,6 +64,14 @@ bash git clone https://github.com/YJ-Kkang/spa-homework.git .
 
 <br>
 
+## 📚 사용 예시
+![title](https://github.com/YJ-Kkang/spa-homework/blob/main/images/1.png?raw=true)   
+![title](https://github.com/YJ-Kkang/spa-homework/blob/main/images/2.png?raw=true)   
+![title](https://github.com/YJ-Kkang/spa-homework/blob/main/images/3.png?raw=true)   
+
+
+<br>
+
 ## 📨 문의 사항
 Yujin Kang - kyujin995@gmail.com
 
