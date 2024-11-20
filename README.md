@@ -23,6 +23,8 @@
 
 - 강유진
 
+![title]([https://github.com/YJ-Kkang/spa-homework/blob/main/images/yujin.webp)
+
   [Git 링크](https://github.com/YJ-Kkang)
 
   [블로그 링크](https://velog.io/@yjkang/posts)
