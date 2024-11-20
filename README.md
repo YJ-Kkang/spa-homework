@@ -19,6 +19,17 @@
 
 <br>
 
+## 🐣 개발자 소개
+
+- 강유진
+
+  [Git 링크](https://github.com/YJ-Kkang)
+
+  [블로그 링크](https://velog.io/@yjkang/posts)
+
+  
+<br>
+
 ## 💬 요구 사항 정의
 1. **계산기 기능**
     - 사칙연산(덧셈, 뺄셈, 곱셈, 나눗셈)
