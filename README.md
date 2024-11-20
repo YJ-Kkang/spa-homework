@@ -83,7 +83,7 @@ bash git clone https://github.com/YJ-Kkang/spa-homework.git .
 
 ## 📚 사용 예시
 ![title](https://github.com/YJ-Kkang/spa-homework/blob/main/images/1.png?raw=true)   
-![title](https://github.com/YJ-Kkang/spa-homework/blob/main/images/2.png?raw=true)   
+<img src="https://github.com/YJ-Kkang/spa-homework/blob/main/images/2.png?raw=true" alt="title" width="333"/>   
 ![title](https://github.com/YJ-Kkang/spa-homework/blob/main/images/3.png?raw=true)   
 
 
