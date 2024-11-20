@@ -23,7 +23,7 @@
 
 - 강유진
 
-![title]([https://github.com/YJ-Kkang/spa-homework/blob/main/images/yujin.webp)
+![title](https://raw.githubusercontent.com/YJ-Kkang/spa-homework/refs/heads/main/images/yujin.webp)   
 
   [Git 링크](https://github.com/YJ-Kkang)
 
