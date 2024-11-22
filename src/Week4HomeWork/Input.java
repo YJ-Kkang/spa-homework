@@ -1,4 +1,4 @@
-package Lv2;
+package Week4HomeWork;
 import java.util.Scanner;
 
 public class Input {
